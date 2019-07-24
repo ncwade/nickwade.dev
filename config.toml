@@ -1,0 +1,63 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "hello-friend-ng"
+enableEmoji     = true
+buildDrafts  = false
+buildFuture  = false
+canonifyURLs = true
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[author]
+  name = "Nick Wade"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "Web presence for Nick Wade"
+  keywords = "homepage, development, programming, ops, sre, embedded, linux"
+  images = [""]
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+  [params.logo]
+  logoText     = "$ cd /home/"
+  logoHomeLink = "/"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:me@ncwade.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/ncwade/"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/ncwade/"
+
+[languages]
+  [languages.en]
+    title = "Nick Wade"
+    subtitle = "Nick Wade's Web Presence"
+    keywords = ""
+    copyright = ""
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "λ cd ~"
+      logoHomeLink = "/"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
