@@ -4,7 +4,7 @@ date: 2019-07-24T09:05:04-05:00
 draft: false
 ---
 
-I am a Software Development Engineer at [GoDaddy](http://www.godaddy.com), working on internal tools and operations. I love learning new technologies, meeting new people, and finding out why I'm wrong. I've got experience working with everything from embedded Linux systems to Kuberntes clusters.
+I am a Software Development Engineer at [GoDaddy](http://www.godaddy.com), working on internal tools and operations. I love learning new technologies, meeting new people, and finding out why I'm wrong. I've got experience working with everything from embedded Linux systems to Kubernetes clusters.
 
 ## Skills
 - C#, C++, Python, Ada, Bash

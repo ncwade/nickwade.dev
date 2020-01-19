@@ -24,7 +24,7 @@ canonifyURLs = true
   images = [""]
 
   # Directory name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
+  contentTypeName = "blog"
   # Default theme "light" or "dark"
   defaultTheme = "dark"
 
@@ -53,11 +53,15 @@ canonifyURLs = true
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "λ cd ~"
+      logoText = "cd $HOME"
       logoHomeLink = "/"
 
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "/about"
+    identifier = "resume"
+    name       = "Resume"
+    url        = "/resume"
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/blog"
