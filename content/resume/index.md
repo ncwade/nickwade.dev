@@ -37,7 +37,7 @@ My goal at any company is finding technical solutions to business problems. I ha
       <div>Kubernetes (EKS/RKE)</div>
       <div>Prometheus</div>
       <div>Grafana</div>
-      <div>Saltstach</div>
+      <div>Saltstack</div>
       <div>Ansible</div>
     </td>
    <td style="text-align:center">
