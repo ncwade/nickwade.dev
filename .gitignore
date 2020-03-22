@@ -1,1 +1,7 @@
 resources
+node_modules
+hugo*
+public/
+LICENSE
+README.MD
+*.log
