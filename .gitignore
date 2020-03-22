@@ -5,3 +5,4 @@ public/
 LICENSE
 README.MD
 *.log
+.now
