@@ -113,4 +113,3 @@ Worked testing and performance analysis for Proline 21 display software. Managed
 __Software Intern__, Rockwell Collins
 
 Worked as a high school intern for Rockwell Collins. Contributed to a variety of internal tools in C++/Python/Java.
-
