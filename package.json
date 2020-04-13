@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "install": "curl -L -O https://github.com/gohugoio/hugo/releases/download/v0.68.1/hugo_extended_0.68.1_Linux-64bit.tar.gz && tar -xzf hugo_extended_0.68.1_Linux-64bit.tar.gz && git submodule init && git pull --recurse-submodules",
+    "install": "curl -L -O https://github.com/gohugoio/hugo/releases/download/v0.68.1/hugo_extended_0.68.1_Linux-64bit.tar.gz && tar -xzf hugo_extended_0.68.1_Linux-64bit.tar.gz .tar.gz",
     "build": "./hugo"
   }
 }
