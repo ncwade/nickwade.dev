@@ -25,7 +25,7 @@ My goal at any company is finding technical solutions to business problems. I ha
    <td style="text-align:center">
          <div>C# (2 years)</div>
          <div>C++ (3 1/2 years)</div>
-         <div>Python (1 1/2 years)</div>
+         <div>Python (3 years)</div>
          <div>Java (1 year)</div>
          <div>Ada (2 years)</div>
          <div>Bash (2 years)</div>
@@ -68,7 +68,7 @@ My goal at any company is finding technical solutions to business problems. I ha
 
 ## Currently
 
-I am a Staff Software Engineer working on Mission Systems programs @ Collins Aerospace. I provide support to both software and systems teams, helping with everything from product integration and configuration control to internal tool development.
+Current working on the DCU team @ GoDaddy building/maintaining/updating abuse report pipeline.
 
 
 ## Education
@@ -79,23 +79,23 @@ __Bachelor’s Degree, Computer Science, Mount Mercy University__
 
 ## Jobs
 
-`05.2020 - Current`
+`02.2021 - Present`
+__Senior Software Engineer__, GoDaddy
+
+Working on the DCU team to modernize the abuse report pipeline. Lead effort to update infrastructure, move to centralized/structured logging, uplift data layer, and transition applications from python2 to python3. Currently leading effort to move uptime critical portions of pipeline to the public cloud & update investigative platform.
+
+`05.2020 - 02.2021`
 __Staff Software Engineer__, Collins Aerospace
 
 Assisted with creation/support of development and verification tools for Mission Systems programs. Contributed to CICD environment to allow for more rapid integration cycles in lab. Assisted with integration of product at a system level.
 
-`03.2020 - 05.2020`
-__Software Development Engineer IV__, GoDaddy
+`03.2019 - 05.2020`
+__Senior Software Engineer__, GoDaddy
 
-Lead software design/architecture phases for new projects being developed within the team. Included software/infrastructure prototype work, wireframes/mockups, cross-team integration/communication, and requirement gathering efforts. Lead the push for team wide design reviews early on in the software development cycle.
-
-`03.2019 - 03.2020`
-__Software Development Engineer III__, GoDaddy
-
-Prototyped infrastructure move to AWS cloud offerings. Maintained/refreshed on premise Kubernetes cluster, MongoDB/Redis deployments, and Jenkins based CICD pipeline. Lead effort to transfer ownership of an externally developed API to within the team. Primary developer integrating teams APIs/services with new e-comm system.
+Prototyped infrastructure move to AWS cloud offerings. Maintained/refreshed on premise Kubernetes cluster, MongoDB/Redis deployments, and Jenkins based CICD pipeline. Lead effort to transfer ownership of an externally developed API to within the team. Primary developer integrating teams APIs/services with new e-comm system.Lead software design/architecture phases for new projects being developed within the team. Included software/infrastructure prototype work, wireframes/mockups, cross-team integration/communication, and requirement gathering efforts. Lead the push for team wide design reviews early on in the software development cycle.
 
 `04.2018 - 03.2019`
-__Software Development Engineer II__, GoDaddy
+__Software Engineer__, GoDaddy
 
 Developed/deployed on-premise Kubernetes cluster, using the platform to provided standardized logging/monitoring/high availability for team owned applications & services. Developed standardized CICD pipeline that provided static analysis, docker image creation, and automated push/rollback based integration test results. Primary developer on several new APIs endpoints and department wide tools. Served as secondary developer on several new web and electron applications.
 
