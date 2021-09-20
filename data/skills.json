@@ -1,0 +1,54 @@
+[
+  {
+      "grouping":"Security Tools",
+      "skills":[
+        {"name": "Nessus", "link":"https://www.tenable.com/products/nessus"},
+        {"name": "NMAP", "link":"https://nmap.org"},
+        {"name": "Coverity", "link":"https://scan.coverity.com"},
+        {"name": "Tartufo", "link":"https://github.com/godaddy/tartufo"},
+        {"name": "Wireshark", "link":"https://www.wireshark.org"},
+        {"name": "Scapy", "link":"https://scapy.net"},
+        {"name": "AWS WAF", "link":"https://aws.amazon.com/waf/"},
+        {"name": "AWS IAM", "link":"https://aws.amazon.com/iam/"},
+        {"name": "AWS KMS", "link":"https://aws.amazon.com/kms/"}
+      ]
+  },
+  {
+      "grouping":"Languages & Operating Systems",
+      "skills":[
+        {"name": "Ada", "link":"https://www.adacore.com/about-ada"},
+        {"name": ".NET Core", "link":"https://docs.microsoft.com/en-us/dotnet/fundamentals/"},
+        {"name": "C++", "link":"https://isocpp.org"},
+        {"name": "Python", "link":"https://www.python.org"},
+        {"name": "git", "link":"https://git-scm.com"},
+        {"name": "subversion", "link":"https://subversion.apache.org"},
+        {"name": "linux", "link":"https://www.kernel.org"},
+        {"name": "bash", "link":"https://www.gnu.org/software/bash/"},
+        {"name": "Java", "link":"https://www.java.com/en/"},
+        {"name": "Windows", "link":"https://www.microsoft.com/en-us/windows/default.aspx"},
+        {"name": "MacOS", "link":"https://www.apple.com/macos/"}
+      ]
+  },
+  {
+      "grouping":"Project Management",
+      "skills":[
+        { "name":"Atlassian", "link": "https://www.atlassian.com"},
+        { "name":"Microsoft Office", "link": "https://www.microsoft.com/en-us/microsoft-365"},
+        { "name":"Rational DOORS"}
+      ]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"Podman","link":"https://podman.io"},
+          {"name":"AWS","link":"https://aws.amazon.com"},
+          {"name":"Google Cloud","link":"https://cloud.google.com"},
+          {"name":"Kubernetes (EKS/RKE)", "link": "https://kubernetes.io"},
+          {"name":"Prometheus", "link": "https://prometheus.io"},
+          {"name":"Grafana", "link": "https://grafana.com"},
+          {"name":"Saltstack", "link": "https://github.com/saltstack/salt"},
+          {"name":"Ansible", "link": "https://www.ansible.com"}
+      ]
+  }
+]

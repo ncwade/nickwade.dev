@@ -1,67 +1,38 @@
-baseurl = "/"
+title = "Nick Wade"
+baseURL = "https://nickwade.dev/"
+theme = "hugo-resume"
 languageCode = "en-us"
-theme = "hello-friend-ng"
-enableEmoji     = true
-buildDrafts  = false
-buildFuture  = false
-canonifyURLs = true
-
-[permalinks]
-  posts = "/posts/:year/:month/:title/"
-
-[author]
-  name = "Nick Wade"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+address = "Cedar Rapids, IA"
+email = "me@ncwade.com"
+favicon = "/favicon.ico"
+firstName = "Nick"
+lastName = "Wade"
+phone = "1-319-540-4067"
+profileImage = "img/ncwade.jpg"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = false
+showPublications = false
+showQr = true
+showSkills = true
 
-  # Metadata mostly used in document's head
-  description = "Web presence for Nick Wade"
-  keywords = "homepage, development, programming, ops, sre, embedded, linux"
-  images = [""]
+[[params.handles]]
+link = "https://www.linkedin.com/in/ncwade/"
+name = "LinkedIn"
 
-  # Directory name of your blog content (default is `content/posts`)
-  contentTypeName = "blog"
-  # Default theme "light" or "dark"
-  defaultTheme = "dark"
+[[params.handles]]
+link = "https://github.com/ncwade/"
+name = "GitHub"
 
-  [params.logo]
-  logoText     = "$ cd /home/"
-  logoHomeLink = "/"
+[outputs]
+home = ["HTML", "JSON"]
 
-  [[params.social]]
-    name = "email"
-    url  = "mailto:me@ncwade.com"
-
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/ncwade/"
-
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/ncwade/"
-
-[languages]
-  [languages.en]
-    title = "Nick Wade"
-    subtitle = "Nick Wade's Web Presence"
-    keywords = ""
-    copyright = ""
-    readOtherPosts = "Read other posts"
-
-    [languages.en.params.logo]
-      logoText = "cd $HOME"
-      logoHomeLink = "/"
-
-[menu]
-  [[menu.main]]
-    identifier = "resume"
-    name       = "Resume"
-    url        = "/resume"
-  [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/blog"
+[taxonomies]
+tag = "tags"

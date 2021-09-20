@@ -1,0 +1,51 @@
+[
+    
+    {
+        "range":"02.2021 - Present",
+        "role":"Senior Software Engineer",
+        "company":"GoDaddy",
+        "summary":"Working on the DCU team to modernize the abuse report pipeline. Lead effort to update infrastructure, move to centralized/structured logging, uplift data layer, and transition applications from python2 to python3. Currently leading effort to move uptime critical portions of pipeline to the public cloud & update investigative platform."
+    },
+    {
+        "range":"05.2020 - 02.2021",
+        "role": "Staff Software Engineer",
+        "company": "Collins Aerospace",
+        "summary":"Assisted with creation/support of development and verification tools for Mission Systems programs. Contributed to CICD environment to allow for more rapid integration cycles in lab. Assisted with integration of product at a system level."
+    },
+    {
+        "range":"03.2019 - 05.2020",
+        "role": "Senior Software Engineer",
+        "company": "GoDaddy",
+        "summary":"Prototyped infrastructure move to AWS cloud offerings. Maintained/refreshed on premise Kubernetes cluster, MongoDB/Redis deployments, and Jenkins based CICD pipeline. Lead effort to transfer ownership of an externally developed API to within the team. Primary developer integrating teams APIs/services with new e-comm system.Lead software design/architecture phases for new projects being developed within the team. Included software/infrastructure prototype work, wireframes/mockups, cross-team integration/communication, and requirement gathering efforts. Lead the push for team wide design reviews early on in the software development cycle."
+    },
+    {
+        "range":"04.2018 - 03.2019",
+        "role": "Software Engineer", 
+        "company":"GoDaddy",
+        "summary":"Developed/deployed on-premise Kubernetes cluster, using the platform to provided standardized logging/monitoring/high availability for team owned applications & services. Developed standardized CICD pipeline that provided static analysis, docker image creation, and automated push/rollback based integration test results. Primary developer on several new APIs endpoints and department wide tools. Served as secondary developer on several new web and electron applications."
+    },
+    {
+        "range":"05.2015 - 04.2018",
+        "role": "Senior Software Technician",
+        "company": "Rockwell Collins",
+        "summary":"Maintained/improved platform CICD for A350 xRM & SDM modules. Worked new feature implementation/bug analysis and fixes for both platforms. Supplied estimates and prototypes for new feature proposals for both platforms. Worked closely with systems engineers to improve testing process and verify all new features."
+    },
+    {
+        "range":"05.2014 - 04.2015",
+        "role": "Sofware Engineer", 
+        "company":"Genova Technologies",
+        "summary":"Developed new features/supplied bug fixes for embedded Linux & VxWorks A653 platforms. Worked integration with platform customer to ensure proper requirement fit/implementation. Deployed new development environment including system wide unit tests, code styling/formatting on compile team, and streamlined image deployment."
+    },
+    {
+        "range":"05.2012 - 04.2014",
+        "role": "Software Co-op",
+        "company": "Rockwell Collins",
+        "summary":"Worked testing and performance analysis for Proline 21 display software. Managed lab for A350 software module, performing chair setup, software deployments, reproducing customer bugs, supplying software fixes, running software verification, and doing performance analysis."
+    },
+    {
+        "range":"08.2010 - 05.2012",
+        "role": "Software Intern",
+        "company": "Rockwell Collins",
+        "summary":"Worked as a high school intern for Rockwell Collins. Contributed to a variety of internal tools in C++/Python/Java."
+    }
+]
