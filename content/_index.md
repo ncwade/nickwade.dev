@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-I enjoy finding technical solutions to business problems. I have an affinity for CICD, infrastructure, and security work. I love learning new technologies, meeting new people, and finding out why I am wrong. I have eleven years of experience in everything from kernel modules on embedded Linux systems to doing security scanning for cloud based infrastructure. Current working on the Digital Crimes Unit at GoDaddy building and maintaining the abuse report pipeline.
+I enjoy finding technical solutions to business problems. I am always interested in learning new technologies, meeting new people, and growing as an engineer. I have thirteen years of experience in everything from kernel modules on embedded Linux systems to doing security scanning for cloud based infrastructure. Currently working on the InfoSec Engineering team at GoDaddy building and maintaining tools which allow us to improve our security posture. I am serving as the team architect working in Python as my primary language, but I also have an affinity for CICD, SRE, and security work.

@@ -14,12 +14,14 @@
       ]
   },
   {
-      "grouping":"Languages & Operating Systems",
+      "grouping":"Development Languages & Tools",
       "skills":[
+        {"name": "Python", "link":"https://www.python.org"},
+        {"name": "FastAPI", "link":"https://fastapi.tiangolo.com/lo/"},
+        {"name": "Celery", "link":"https://docs.celeryq.dev/en/stable/getting-started/introduction.html"},
         {"name": "Ada", "link":"https://www.adacore.com/about-ada"},
         {"name": ".NET Core", "link":"https://docs.microsoft.com/en-us/dotnet/fundamentals/"},
         {"name": "C++", "link":"https://isocpp.org"},
-        {"name": "Python", "link":"https://www.python.org"},
         {"name": "Git", "link":"https://git-scm.com"},
         {"name": "Subversion", "link":"https://subversion.apache.org"},
         {"name": "Linux", "link":"https://www.kernel.org"},
@@ -38,7 +40,7 @@
       ]
   },
   {
-    "grouping":"Containers & Cloud",
+    "grouping":"Containers, Cloud, & Infrastructure",
       "skills":[
           {"name":"Docker","link":"https://docker.com"},
           {"name":"Podman","link":"https://podman.io"},
@@ -48,7 +50,10 @@
           {"name":"Prometheus", "link": "https://prometheus.io"},
           {"name":"Grafana", "link": "https://grafana.com"},
           {"name":"Saltstack", "link": "https://github.com/saltstack/salt"},
-          {"name":"Ansible", "link": "https://www.ansible.com"}
+          {"name":"Ansible", "link": "https://www.ansible.com"},
+          {"name":"RabbitMQ", "link": "https://www.rabbitmq.com/"},
+          {"name":"MongoDB", "link": "https://www.mongodb.com/"},
+          {"name":"MySQL", "link": "https://www.mysql.com/"}
       ]
   }
 ]
